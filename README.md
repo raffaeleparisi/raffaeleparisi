@@ -1,16 +1,81 @@
-### Hi there 👋
+# Raffaele Parisi | Design Sviluppo Marketing
 
-<!--
-**raffaeleparisi/raffaeleparisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi occupo di:
 
-Here are some ideas to get you started:
+- Web Design
+- Sviluppo Web
+- Web Marketing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+praticamente se siete o volete essere presenti online sicuramente posso esservi d'aiuto.
+
+Questo è il mio sito personale, dove cerco di raccontarmi e cerco di pubblicare i lavori più significativi.
+
+## Web Design
+
+In questi anni ho ideado, disegnato e sviuppato numerosi progetti (siti, app, loghi, ecc.).
+
+Col tempo mi sono perfezionato e specializzato nell'User Experience (esperienza utente) e nel Brend Design, per connettere il servizio o prodotto col cliente.
+
+I principali programmi che uso sono:
+
+- Figma (wireframe, UX, UI)
+- Photoshop / Affinity (Editing foto e design)
+- Framer (UX, UI)
+- Suite Adobe (un po' per tutto)
+
+## Sviluppo Web
+
+### Front-end
+
+Principali tecnologie e competenze:
+
+- HTML
+- CSS
+- Bootstrap
+- Tailwind
+- JavaScript
+- TypeScript
+- React
+
+### Back-end
+
+Principali tecnologie e competenze:
+
+- Node.js
+- GraphQL
+- PHP
+- WordPress
+
+### Headless CMS
+
+- WordPress
+- DatoCMS
+- GraphCMS
+
+Ecc..
+
+## Web Marketing - Digital Marketing - Online Marketing
+
+Search Engine Marketing
+
+Search Engine Optimization (SEO)
+
+Pay Per Click
+Search
+Display
+
+Social Media Marketing
+
+Piattaforme:
+
+- Google Ads
+- Facebook Ads
+- LinkedIn Ads
+
+- SEO
+- SEM
+- SMM
+- Display
+- Tag Manager
+- E-commerce Tracking
+- Conversion
