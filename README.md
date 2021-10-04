@@ -2,13 +2,11 @@
 
 Mi occupo di:
 
-- Web Design
-- Sviluppo Web
-- Web Marketing
+- Web Design 👨🏻‍🎨
+- Sviluppo Web 👨🏻‍💻
+- Web Marketing 📈
 
-praticamente se siete o volete essere presenti online sicuramente posso esservi d'aiuto.
-
-Questo è il mio sito personale, dove cerco di raccontarmi e cerco di pubblicare i lavori più significativi.
+In pratica se siete o volete essere presenti online sicuramente posso esservi d'aiuto. 🚀
 
 ## Web Design
 
@@ -48,34 +46,25 @@ Principali tecnologie e competenze:
 
 ### Headless CMS
 
-- WordPress
-- DatoCMS
-- GraphCMS
+- [WordPress](https://wordpress.org)
+- [DatoCMS](http://datocms.com)
+- [Contentful](https://www.contentful.com)
+- [GraphCMS](https://graphcms.com)
 
 Ecc..
 
-## Web Marketing - Digital Marketing - Online Marketing
+## Online Marketing
 
-Search Engine Marketing
+- Search Engine Marketing (SEM)
+  - Search Engine Optimization (SEO)
+- Display Advertising
+- Social Media Marketing
+- Email Advertising
 
-Search Engine Optimization (SEO)
+I benefici dell'[online marketing](https://en.wikipedia.org/wiki/Online_advertising#Benefits_of_online_advertising)
 
-Pay Per Click
-Search
-Display
+### Analytics, Tag e Conversioni
 
-Social Media Marketing
-
-Piattaforme:
-
-- Google Ads
-- Facebook Ads
-- LinkedIn Ads
-
-- SEO
-- SEM
-- SMM
-- Display
+- Google Analytics
+- Data Studio
 - Tag Manager
-- E-commerce Tracking
-- Conversion
