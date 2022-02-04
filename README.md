@@ -1,4 +1,4 @@
-# Raffaele Parisi | Design Sviluppo Marketing
+# Raffaele Parisi | design sviluppo marketing
 
 Mi occupo di:
 
